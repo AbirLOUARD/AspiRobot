@@ -9,11 +9,11 @@
 
 ## Introduction
 
-Création d'un agent aspirateur. Dans ce projet nous allons 
-avoir un manoir qui contient des pièces qui ne cessent pas 
-de se salir et l’Aspirobot a pour objectif de nettoyer ces 
-pièces de façon automatique, en économisant l’électricité 
-et d’une manière qu’il n’aspire pas les bijoux.
+Creation of a vacuum agent. In this project we will
+have a mansion that contains rooms that don't stop
+to get dirty and the Aspirobot aims to clean these
+parts automatically, saving electricityand in a 
+way that it doesn't suck up the jewelry.
 
 ## Technologies
 
