@@ -1,4 +1,4 @@
-# aspirobot
+# AspiRobot
 
 
 ## Table of contents
