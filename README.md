@@ -25,5 +25,5 @@ Python 3.7
 In your Terminal
 
 ```
-git clone https://github.com/AbirLOUARD/aspirobot.git
+git clone https://github.com/AbirLOUARD/AspiRobot.git
 ```
